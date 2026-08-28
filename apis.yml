@@ -14,6 +14,17 @@ description: 'Cadence Solutions, Inc. — operating as Cadence — is a New York
   led by Spark Capital in June 2026 ($241M total, ~$1.23B valuation). Cadence publishes no
   public developer program or API: EHR interoperability is delivered as bilateral health
   system integrations, not a self-serve API surface.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.cadence.care/og-image.webp
 url: https://raw.githubusercontent.com/api-evangelist/cadence-solutions/refs/heads/main/apis.yml
 x-type: company
